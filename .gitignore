@@ -1,0 +1,18 @@
+# Raw datasets are downloaded by download_data.py (about 75 MB unpacked)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/
